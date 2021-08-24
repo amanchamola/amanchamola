@@ -1,6 +1,6 @@
-### print (" Hello world 👋 I'm Aman Chamola ")
+# print (" Hello world 👋 I'm Aman Chamola ")
 
-# i'm a 4th year BTech IT student at Guru Gobind Singh Indraprastha University. I believe in continous learning and development with the fast changing technology trends. An Aspiring Data Scientist and Machine Learning beginner, who's just getting started!
+#### i'm a 4th year BTech IT student at Guru Gobind Singh Indraprastha University. I believe in continous learning and development with the fast changing technology trends. An Aspiring Data Scientist and Machine Learning beginner, who's just getting started!
 
 Here are some ideas to get you started:
 
