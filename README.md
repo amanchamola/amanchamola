@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Data Science and ML projects
 - 🌱 I’m currently learning ... Django and heroku 
-- 👯 I’m looking to collaborate on ... 
+- 👯 I’m looking to collaborate on ... Projects and Research Papers
 - 🤔 I’m looking for help with ... Internships and Job Opportunities
-- 💬 Ask me about ...
+- 💬 Ask me about ... Anything
 - 📫 How to reach me: ... email_id : chamolaaman.99@gmail.com , linkedin : https://www.linkedin.com/in/aman-chamola/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm a massive football fan but even football can't get me off my laptop.  
