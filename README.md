@@ -2,7 +2,8 @@
 
 # i'm a 4th year BTech IT student at Guru Gobind Singh Indraprastha University. I believe in continous learning and development with the fast changing technology trends
 
-An Aspiring Data Scientist and Machine Learning beginner, who's just getting started!
+# An Aspiring Data Scientist and Machine Learning beginner, who's just getting started!
+
 <!--
 **amanchamola/amanchamola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
