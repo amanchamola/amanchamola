@@ -1,6 +1,6 @@
 # print (" Hello world 👋 I'm Aman Chamola ")
 
-I'm a SDE-1 (Python developer) automating the boring stuff with ✨ LLMs, APIs, and dashboards. I build things that run on their own — while I sip coffee and debug reality. ☕🐍
+I'm a Consultant (Python developer) @ KPMG, automating the boring stuff with ✨ LLMs, APIs, and dashboards. I build things that run on their own — while I sip coffee and debug reality. ☕🐍
 
 ---
 
